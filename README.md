@@ -20,6 +20,9 @@ Set Up Jenkins:
 
 Follow the setup wizard to install recommended plugins and create your first admin user.
 
+![image](https://github.com/user-attachments/assets/619b53fc-26e3-40e8-877f-a09fdb8dfa3e)
+
+
 **Method 2: Run Jenkins in Minikube**
 Start Minikube:
 
